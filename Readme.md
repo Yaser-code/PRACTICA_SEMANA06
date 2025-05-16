@@ -2,3 +2,4 @@ Este es un programa donde se asigna un numero aleatorio a las celdas de la tabla
  - Herramientas usadas:
   - Javascript
   - HTML
+  - Css
